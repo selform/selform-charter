@@ -1,0 +1,34 @@
+# Agent / Codex temporary artifacts
+.codex/
+.codex-cache/
+.codex-tmp/
+.codex-temp/
+.codex-work/
+.opencode/
+.opencode-cache/
+.agent/
+.agent-cache/
+.agent-tmp/
+
+# Local agent working memory (repo-specific)
+WORKLOG.md
+MEMORY.md
+DECISIONS.md
+PLANS/
+SPECS/
+
+# Local caches / scratch
+.cache/
+.tmp/
+tmp/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+
+# OS / editor noise
+.DS_Store
+.vscode/
+.idea/
