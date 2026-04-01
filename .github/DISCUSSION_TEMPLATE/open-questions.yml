@@ -1,0 +1,73 @@
+title: "[Open Question] "
+labels: ["open-question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to open or extend a philosophical question in Selform.
+
+        If possible, link to an existing question file under `en/questions/` (and mirror in `zh/` when appropriate).
+
+  - type: input
+    id: anchor
+    attributes:
+      label: Anchor (optional)
+      description: Link to an existing question file or relevant section in the charter.
+      placeholder: "e.g., https://github.com/selform/selform-charter/blob/main/en/questions/q-enhancement-vs-replacement.md"
+    validations:
+      required: false
+
+  - type: textarea
+    id: why_open
+    attributes:
+      label: Why is this question open?
+      description: What is unclear, contested, or risky to get wrong?
+      placeholder: "This remains open because…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: known_positions
+    attributes:
+      label: Known positions (steelman at least 2)
+      description: Summarize the best versions of the leading positions.
+      value: |
+        - Position A:
+        - Position B:
+    validations:
+      required: true
+
+  - type: textarea
+    id: my_view
+    attributes:
+      label: Your current judgment (and uncertainty)
+      description: State what you think right now, plus what you’re least confident about.
+      placeholder: "My current view is…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: change_mind
+    attributes:
+      label: What would change your mind?
+      description: Evidence, arguments, or experiences that would update your position.
+      placeholder: "I would update if…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: progress
+    attributes:
+      label: Progress signals
+      description: What would “making progress” look like for this question?
+      placeholder: "Progress would be…"
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: Community agreements
+      options:
+        - label: I will cite passages when possible and engage charitably.
+          required: true
+

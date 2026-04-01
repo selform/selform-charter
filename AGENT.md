@@ -42,6 +42,11 @@ This file is an operational index for agents working in this repository. **Updat
 - English templates: `TEMPLATES/en/`
 - Chinese templates: `TEMPLATES/zh/`
 
+## Index (community discussion templates)
+
+- Discussion category forms (GitHub): `.github/DISCUSSION_TEMPLATE/`
+- Copyable discussion prompts: `TEMPLATES/en/discussion-*.md`, `TEMPLATES/zh/discussion-*.md`
+
 ## Index (repo memory system)
 
 - Durable memory: `MEMORY.md`
@@ -58,4 +63,3 @@ After any repository update, do all applicable items:
 - Update `MEMORY.md` only for durable conventions/quirks.
 - Update `DECISIONS.md` only for meaningful, lasting decisions.
 - Add/update `PLANS/` and/or `SPECS/` if scope/behavior changes warrant it.
-

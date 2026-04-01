@@ -3,6 +3,7 @@
 By submitting text, documentation, templates, or translations you affirm that you have the right to contribute it and agree to license your contribution under CC BY 4.0 (unless a different compatible license is explicitly noted and accepted by the maintainers).
 
 ## Participation workflow
+- **Discussions first**: For conceptual work, start in GitHub Discussions so the idea can be challenged and refined before it becomes text. If discussion forms are enabled, choose the category form; otherwise use the copyable prompts in `TEMPLATES/en/discussion-*.md` (and `TEMPLATES/zh/`).
 - **Ideas & debates**: Start with an Issue or Discussion thread focused on the concept, principle, or question you want to explore. Provide background, references, and how it relates to existing entries.
 - **Draft documents**: Once you have a stable articulation, open a PR that targets the relevant folder (e.g., `en/charter/`, `en/concepts/`, `en/dialogues/`).
 - **Link context**: Every PR must cite the Issue/Discussion where the idea evolved, include the intended audience, and describe remaining open questions or risks.

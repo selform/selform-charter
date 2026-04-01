@@ -1,0 +1,64 @@
+title: "[Welcome] "
+labels: ["welcome"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Welcome to **Selform Charter**.
+
+        This repository is **anti-product**, **anti-“user”**, and **anti-implementation**: we’re here for conceptual clarity, not features.
+
+        If you’re new, start small: name one question you care about, one assumption you hold, and one place you want others to challenge you.
+
+  - type: input
+    id: who
+    attributes:
+      label: Who are you (as a thinker/practitioner)?
+      description: A handle, a role, or a short self-description.
+      placeholder: "e.g., researcher / builder / teacher / student of philosophy / ..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: What brings you to Selform?
+      description: What problem, tension, or curiosity made you click this repo?
+      placeholder: "I’m trying to understand…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: agency
+    attributes:
+      label: Your working definition of agency (today)
+      description: It can be incomplete; we’re here to refine it.
+      placeholder: "For me, agency is…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: anti_implementation
+    attributes:
+      label: What does “anti-implementation” mean to you?
+      description: Where do you draw the boundary between conceptual work and premature engineering?
+      placeholder: "I interpret it as…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: challenge
+    attributes:
+      label: How should others challenge you?
+      description: Name the point you most want people to push back on.
+      placeholder: "Please challenge my assumption that…"
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: Community agreements
+      options:
+        - label: I will follow the Code of Conduct and debate ideas, not people.
+          required: true
+
