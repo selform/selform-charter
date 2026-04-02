@@ -1,14 +1,16 @@
 # Selform Charter
 🌐 English (this page) | [中文说明](zh/INDEX.md) | [English index](en/INDEX.md) | [Discussions](https://github.com/selform/selform-charter/discussions)
 
-> An open philosophical conversation about agency, truth, and self-formation—exploring how AI can extend human cognition **without outsourcing human judgment**.
+> An open philosophical conversation about agency, truth, and self-formation—starting from the “second brain” discontinuity of AI agents, and exploring how AI can extend human cognition **without outsourcing human judgment**.
 
 ## Positioning
 - **Anti-product**: This is not a product brief—no MVP, feature list, or growth agenda lives here.
 - **Anti-“user”**: We avoid the label “user” because it quietly implies passivity. Prefer *participant*, *subject*, or *practitioner*—people with ongoing agency.
 - **Anti-implementation**: This repository holds framing, principles, risks, and questions. It does not propose an engineering implementation or roadmap.
+- **Paradigm-first**: Seeded by “agent-in-notes,” but focused on the ethical discontinuity of deep coupling (language as bridge) between a first mind and an agentic second brain.
 
 ## A few sparks (from the charter)
+- Selform began from “AI + notes,” but continuous improvements are not enough once agents approach “second brain” territory. ([en/charter/00-why-selform.md](en/charter/00-why-selform.md))
 - “Human First” means enhancing judgment and resilience, not automating away the person who is learning how to judge. ([en/charter/01-core-claims.md](en/charter/01-core-claims.md))
 - Fluent answers must not become “cognitive meal replacement”: they should prolong thinking, not end it. ([en/charter/02-core-risks.md](en/charter/02-core-risks.md))
 - Dependency is a failure mode: Selform must not make the first mind abdicable. ([en/charter/02-core-risks.md](en/charter/02-core-risks.md))

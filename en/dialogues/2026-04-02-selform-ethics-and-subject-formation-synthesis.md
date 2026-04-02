@@ -3,7 +3,7 @@ Status: draft
 Last updated: 2026-04-02
 
 # Dialogue Note: From “ISE” to Selform (Ethics & Subject-Formation)
-- Context: The discussion began from an IDE-inspired “ISE” (Integrated Study/Learning Environment) idea, but shifted into a philosophical inquiry: how technology may rightly enter memory, language, judgment, and growth without outsourcing human judgment.
+- Context: The discussion began from a practical attempt to deeply embed agent capabilities into note-taking and learning workflows (an IDE-inspired “ISE” / Integrated Study/Learning Environment) and the sense that most “AI in notes” features are continuous improvements on old paradigms. It then shifted into a philosophical inquiry: how technology may rightly enter memory, language, judgment, and growth without outsourcing human judgment.
 - Participants: De-identified; recorded as “participant(s)” rather than “users.”
 - Summary:
   - The conversation is no longer product design; it is a technology-ethics paradigm.
@@ -35,6 +35,7 @@ Last updated: 2026-04-02
 
 - Misunderstandings to avoid:
   - Treating this as a normal product roadmap (features/MVP/growth) despite the explicit constraint.
+  - Treating this as merely “AI features for notes” (incremental add-ons) rather than an ethics-and-subject-formation discontinuity.
   - Using “user” language that reinstates an external consumption relation.
   - Treating “full raw chain-of-thought” disclosure as the correct transparency goal; the target is an **auditable reasoning interface**.
 

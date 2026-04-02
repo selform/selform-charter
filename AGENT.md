@@ -6,6 +6,7 @@ This file is an operational index for agents working in this repository. **Updat
 
 - `selform-charter` is an **EN-first, bilingual (EN/中文)** charter repository for Selform.
 - Scope: conceptual / philosophical / ethical framing around *agency*, *truth*, and *self-formation*.
+- Origin framing: began from “agent-in-notes / learning workflows,” but shifted toward the “second brain” discontinuity—deep coupling (language as bridge) rather than a clean division of labor.
 - Non-scope: product scoping (MVP/features/growth) and engineering implementation / technical roadmap.
 
 ## Canonical language policy

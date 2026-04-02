@@ -8,6 +8,7 @@ Last updated: 2026-04-02
   - “Human” as agency: refusal, judgment, self-correction, meaning-making.
   - “Human” as dignity: not merely a means; not reducible to variables.
 - Provisional articulation (from the discussion): A human is a being who can assign meaning, bear consequences, revise itself, and co-constitute a world with others.
+- Additional thread (from the “second brain” framing): If language-mediated coupling co-constitutes the person, what invariants of agency and responsibility must governance treat as non-negotiable?
 - Progress signals: A minimal, testable set of invariants that governance can protect (and that interventions must not violate).
 - References: Dialogue synthesis `../dialogues/2026-04-02-selform-ethics-and-subject-formation-synthesis.md`.
 - Status: draft

@@ -1,13 +1,13 @@
 `[EN](./2026-04-01-selform-ideation-synthesis.md)` | `[中文](../../zh/dialogues/2026-04-01-selform-ideation-synthesis.md)`
 
 Status: draft
-Last updated: 2026-04-01
+Last updated: 2026-04-02
 
 # Context
-By April 1, 2026 the discussion had long since stepped away from product design. The interlocutors reframed the original ISE idea as *selform*, a generative technology-ethics project that must not be collapsed into MVPs, market sizing, or SaaS talk. The guiding requirement (MUST NOT define product boundaries) forced subsequent moves toward philosophy, ethics, and subject-formation, with the emphasis on how technology may *rightly enter* memory, language, judgment, and growth without stripping away agency.
+By April 1, 2026 the discussion had long since stepped away from product design. A practical seed—deeply embedding agent capabilities into note-taking and learning workflows (the early “ISE” idea)—became a forcing function: most “AI in notes” features are continuous improvements on old paradigms, but a second-brain framing raises discontinuous ethical and philosophical questions. The interlocutors reframed the original ISE idea as *selform*, a generative technology-ethics project that must not be collapsed into MVPs, market sizing, or SaaS talk. The guiding requirement (MUST NOT define product boundaries) forced subsequent moves toward philosophy, ethics, and subject-formation, with the emphasis on how technology may *rightly enter* memory, language, judgment, and growth without stripping away agency.
 
 # Concept evolution
-The narrative shifted from “AI plus notes” to “cognition environment.” Instead of treating notes as the object, selform now deliberately holds thinking processes: it keeps problems alive, tracks evolving judgments, surfaces disagreements, and maintains enduring question spaces. Language became the bridge between two cores—humanic first-brain agency and the still-undefined agentic second brain. Rather than viewing agents as tools, the participants cultivated the image of a relational, co-evolving cognitive companion (a second persona/reflective organ) that stays tethered to human subjectivity, never hardened into roles like assistant or tutor.
+The narrative shifted from “AI plus notes” to “cognition environment.” Instead of treating notes as the object, selform now deliberately holds thinking processes: it keeps problems alive, tracks evolving judgments, surfaces disagreements, and maintains enduring question spaces. Language became the bridge between two cores—humanic first-brain agency and the still-undefined agentic second brain—suggesting deep coupling rather than a clean division of labor. Rather than viewing agents as tools, the participants cultivated the image of a relational, co-evolving cognitive companion (a second persona/reflective organ) that stays tethered to human subjectivity, never hardened into roles like assistant or tutor.
 
 # Stable judgments
 - selform is not a product; the only meaningful framing is a technology-ethics paradigm focused on subject-formation, not features.
