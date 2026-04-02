@@ -1,7 +1,7 @@
 ---
 language: English
 status: draft
-last-updated: 2026-04-01
+last-updated: 2026-04-02
 ---
 
 # Open Questions
@@ -11,5 +11,10 @@ last-updated: 2026-04-01
 
 ## Topics
 - `q-what-is-human-centered-human.md`
-- `q-augmentation-vs-replacement.md`
+- `q-enhancement-vs-replacement.md`
 - `q-what-is-acceptable-risk.md`
+- `q-what-is-selform.md`
+- `q-how-to-avoid-cognitive-meal-replacement.md`
+- `q-procedural-friction-vs-manipulation.md`
+- `q-inalienable-rights-vs-preauthorization.md`
+- `q-second-persona-without-echo-chamber.md`

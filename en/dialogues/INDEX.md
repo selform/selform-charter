@@ -1,7 +1,7 @@
 ---
 language: English
 status: draft
-last-updated: 2026-04-01
+last-updated: 2026-04-02
 ---
 
 # Dialogue Syntheses
@@ -11,3 +11,4 @@ last-updated: 2026-04-01
 
 ## Entries
 - `2026-04-01-selform-ideation-synthesis.md`
+- `2026-04-02-selform-ethics-and-subject-formation-synthesis.md`
